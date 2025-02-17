@@ -1,0 +1,29 @@
+{
+  "name": "ocr-testing",
+  "version": "1.0.0",
+  "description": "\"# socket.io-sample-react\" \r #\u0000 \u0000O\u0000C\u0000R\u0000-\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000-\u0000\r\u0000 \u0000#\u0000 \u0000O\u0000C\u0000R\u0000-\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000-\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanmay-Mirgal/OCR-testing-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanmay-Mirgal/OCR-testing-/issues"
+  },
+  "homepage": "https://github.com/Tanmay-Mirgal/OCR-testing-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
