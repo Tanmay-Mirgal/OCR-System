@@ -27,7 +27,7 @@ export default function OCRApp() {
     formData.append("file", file);
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/ocr", {
+      const response = await fetch("https://ocr-flask-2zog.onrender.com/ocr", {
         method: "POST",
         body: formData,
       });
@@ -59,7 +59,7 @@ export default function OCRApp() {
       console.log("Detected Category:", foundCategory || "Not Found");
 
       if (foundCategory) {
-        const res = await fetch("http://localhost:3000/get-products-by-category", {
+        const res = await fetch("https://ocr-system-dxro.onrender.com/get-products-by-category", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ category: foundCategory }),
