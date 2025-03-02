@@ -4,7 +4,9 @@
   "description": "\"# socket.io-sample-react\" \r #\u0000 \u0000O\u0000C\u0000R\u0000-\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000-\u0000\r\u0000 \u0000#\u0000 \u0000O\u0000C\u0000R\u0000-\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000-\u0000\r\u0000 \u0000",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon node/server.js"
+    "start": "node node/server.js",
+    "server": "nodemon node/server.js",
+    "build": "npm install && npm install --prefix client && npm run build --prefix client"
   },
   "repository": {
     "type": "git",
