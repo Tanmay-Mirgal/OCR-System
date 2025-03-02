@@ -86,7 +86,7 @@ The frontend will start running at `http://localhost:3000/`.
 ## 🎨 UI Preview
 
 ### DEMO APP:
-![DEMO](https://github-production-user-asset-6210df.s3.amazonaws.com/138283976/413614130-149b8f16-f0b3-4508-bb9d-22c2b9a73431.jpg)
+![DEMO](https://raw.githubusercontent.com/Tanmay-Mirgal/OCR-System/main/assets/demo.jpg)
 
 ---
 
@@ -110,4 +110,7 @@ Contributions are welcome! To contribute:
 
 [![GitHub](https://img.shields.io/badge/GitHub-TanmayMirgal-blue?style=flat&logo=github)](https://github.com/Tanmay-Mirgal)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TanmayMirgal-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Twitter](https://img.shields.io/badge/Twitter-TanmayMirgal-blue?style=flat&logo=twitter)](
+[![Twitter](https://img.shields.io/badge/Twitter-TanmayMirgal-blue?style=flat&logo=twitter)](YOUR_TWITTER_URL)  
+
+---
+
