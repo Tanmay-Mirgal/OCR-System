@@ -24,8 +24,14 @@ A **Product Identification System** similar to **Google Lens**, using **Flask, R
 ### Backend:
 - **Flask (Python)**
 - **TensorFlow/Keras (Trained Model)**
-- **OpenCV & NumPy**
-- **Database (for storing and retrieving related products)**
+- **pytesseract**
+-**Pillow**
+-**poppler-utils**
+
+### Backend:
+- **Express js**
+- **mongodb**
+- **Restful apis**
 
 ---
 
